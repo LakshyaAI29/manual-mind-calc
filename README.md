@@ -1,0 +1,1 @@
+# manual-mind-calc
